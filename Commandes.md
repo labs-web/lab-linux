@@ -7,8 +7,8 @@ Donnez des exemple des commandes suivant
 ```bash
 ls -ali
 rm -d
+cp -a /source/. /dest/
 ```
-
 
 
 ## Création d'un lien symbolique
