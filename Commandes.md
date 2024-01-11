@@ -1,6 +1,18 @@
 # Commande linux 
 
+## Travail à faire 
+
+Donnez des exemple des commandes suivant 
+
+```bash
+ls -ali
+rm -d
+```
+
+
+
 ## Création d'un lien symbolique
+
 
 ```bash
 ln -s dossier_cible nom_du_lien.
